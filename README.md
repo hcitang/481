@@ -1,3 +1,2 @@
-# 481
-
-Repository for 481 materials.
+# CPSC481-2016F
+CPSC 481 - 2016F
