@@ -1,4 +1,4 @@
-# CPSC 481 - 2016W
+# CPSC 481 - 2016F
 
 [Home](index.md)
 [About](about.md)
