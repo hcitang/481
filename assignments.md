@@ -32,6 +32,7 @@ You are to consider the IDEO methods for several different design problems, iden
 ## Bonus: Weekly Submissions to #baddesign or #greatdesign
 
 Learning how to design effectively is really about *thinking* about design regularly. For bonus marks (up to 2%, at discretion of course instructor), post regularly to the Slack channels #baddesign and #gooddesign (e.g. once a week for each week in the term). An effective post includes:
+
 * a photo of an object/interface that is an example of good (or bad) design,
 * an explanation for why it is good (or bad), 
 * and if it is a bad design, a design alternative that solves the problem.
