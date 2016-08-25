@@ -5,3 +5,5 @@
 [Assignments](assignments.md)
 [Team Project](project.md)
 [Resources](resources.md)
+
+[gimmick:theme](flatly)

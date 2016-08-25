@@ -15,11 +15,12 @@ Note: if you talk with a classmate about the assignments, you should list them i
 
 ## A0: Slack Introduction
 
-In this assignment, your task is to join the CPSC481 Slack chat [http://cpsc481.slack.com](http://cpsc481.slack.com), and introduce yourself.
+In this assignment, your task is to join the CPSC481 Slack chat [http://cpsc481-ucalgary.slack.com](http://cpsc481.slack.com), and introduce yourself.
 
 * Create a Slack account
-* Join http://cpsc481.slack.com
-* Post a message in the #profiles channel with your name, your photo, why you are taking this course, something that interests you, and your desired super power.
+* Join http://cpsc481-ucalgary.slack.com
+* Put a picture of yourself in your account
+* Post a message in the #profiles channel with your name, why you are taking this course, something that interests you, and your desired super power (or a super power you have).
 
 ## A1: Thinking About Design [(detail)](a1.md)
 
