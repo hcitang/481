@@ -6,7 +6,7 @@ This course provides an introduction to the process of designing, creating and e
 
 * Lectures: MWF 10-10:50, MS527
 * Office Hours: MW 11-12, MS680B (or by appointment)
-* Tutorial notes: [http://cpsc481.info](http://cpsc481.info)
+* Tutorial notes: Available on [slack](https://cpsc481-ucalgary.slack.com)
 * Instructor: [Tony Tang](http://hcitang.org)
 * TAs: Terrance Mok, Kurtis Danyluk
 
