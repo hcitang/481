@@ -6,7 +6,7 @@ You will choose a project idea to work from, and use that project idea for every
 
 ## Teams
 
-The project is to be completed in **teams of three or four**, where all members are from the same tutorial section. The idea here is to work as a deep dive group to generate a wide breadth of alternate and varied design ideas -- just as you would in the real world.
+The project is to be completed in **teams of three**, where all members are from the same tutorial section. The idea here is to work as a deep dive group to generate a wide breadth of alternate and varied design ideas -- just as you would in the real world.
 
 Teams will create and operate under the particulars of their own team contract (P0). Consequences can be as severe as kicking a team member off the team.
 
@@ -20,6 +20,18 @@ Print off the Grading Sheets, and put these at the front of the appropriate sect
 
 ## Project Ideas
 You may choose from any of the following project ideas. Most will need some narrowing (i.e. focus) to make it tractable. My suggestion: pick a project that speaks to you (i.e. you find/found it an issue).
+
+1. Curated maps and routes (e.g. Spotify for walking or biking)
+2. Garden guide (e.g. planning, managing and tracking a garden)
+3. Back-end system for an animal shelter (for employees to manage animals)
+4. Back-end of restaurant menu ordering system (e.g. employee interface for adding inventory)
+5. Catalog store shopping assistant
+6. Recreation Centre app
+7. Ski hill application
+8. Mobile field guide for a park (e.g. for mushrooms, flowers, etc.)
+9. Driving data app
+10. Period tracking app
+11. Farmer market vendor app
 
 <!--
 * Kid-friendly Web Browser: design a web browser for young children.
