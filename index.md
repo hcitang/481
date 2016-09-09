@@ -15,9 +15,9 @@ This course provides an introduction to the process of designing, creating and e
 ## Tentative Calendar
 
 * Week of 9/12
-    - Introduction [slides](http://www.hcitang.org/uploads/Teaching/files/481-1-introduction.pptx)
-    - Good Interfaces [slides](http://www.hcitang.org/uploads/Teaching/files/481-2-good-interfaces.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/files/481-2-good-interfaces.mp3) [exercises](http://www.hcitang.org/uploads/Teaching/files/481-2-exercises.pptx)
-    - Designing for People [slides](http://www.hcitang.org/uploads/Teaching/files/481-3-designing-for-people.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/files/481-3-designing-for-people.mp3) [exercises](http://www.hcitang.org/uploads/Teaching/files/481-3-exercises.pptx)
+    - Introduction [slides](http://www.hcitang.org/uploads/Teaching/481-1-introduction.pptx)
+    - Good Interfaces [slides](http://www.hcitang.org/uploads/Teaching/481-2-good-interfaces.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-2-good-interfaces.mp3) [exercises](http://www.hcitang.org/uploads/Teaching/481-2-exercises.pptx)
+    - Designing for People [slides](http://www.hcitang.org/uploads/Teaching/481-3-designing-for-people.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-3-designing-for-people.mp3) [exercises](http://www.hcitang.org/uploads/Teaching/481-3-exercises.pptx)
     - Notes: A0 released 9/12, due 9/14; P0 released 9/12
 
 
