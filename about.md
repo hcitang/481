@@ -34,6 +34,6 @@ Note: This is tentative, and superceded by the course syllabus.
 | Midterm (Oct 14) | 15% |
 | Final (TBD) | 30% |
 
-Participation is assessed via three sub-components: (1) tutorial participation; (2) online participation in surveys, and (3) a bonus design sketchbook component.
+Participation is assessed via three sub-components: (1) tutorial participation, and (2) online participation in surveys.
 
 Midterm and Final are closed-book exams where your knowledge retention, reasoning and written communication skills will be assessed.
