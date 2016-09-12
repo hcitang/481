@@ -21,3 +21,18 @@ This course provides an introduction to the process of designing, creating and e
     - Notes: [A0](assignments.md) released 9/12, due 9/14; [P0](p0.md) released 9/12
 
 
+## Expected Assignment Dates
+
+* A0: 9/12 out; 9/14 due
+* A1: 9/19 out; 9/26 due
+* A2: 9/28 out; 10/12 due
+
+* P0: 9/12 indiv out; 9/23 draft due; 9/26 handed back; 10/13 due in tutorial
+* P1: 9/28 out; 10/19 due
+* P2: 10/19 out; 11/2 due
+* P3: 11/2 out; 11/29 due
+* P4: 11/25 out; 12/7 due
+
+* Project demos: week of 11/28 in tutorial
+* Project presentation: week of 12/5 in tutorial
+
