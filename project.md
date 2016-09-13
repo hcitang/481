@@ -33,6 +33,8 @@ You may choose from any of the following project ideas. Most will need some narr
 10. Period tracking app
 11. Farmer market vendor app
 
+This year, we're going to be using Java Android Studio to build Android apps!
+
 <!--
 * Kid-friendly Web Browser: design a web browser for young children.
 * Cooking Instructor: design a system that can be used to prepare and cook a recipe.
