@@ -50,7 +50,7 @@ This year, we're going to be using Java Android Studio to build Android apps!
 | [P0: Team Contracts](p0.md) - Establishing a set of rules that outline how the team will work, expectations, and consequences for poor performance | 1% | 9/23, 9/30, week of 10/3 |
 | [P1: User Research](p1.md) - Conduct three different IDEO methods to learn about your users in their environment. | 7% | 10/19 |
 | [P2: Ideation and Lo-Fi Prototypes](p2.md) - Brainstorm and sketch a variety of possible interfaces for your system, identifying important aspects of a user's flow. Create a video prototype of your system, and conduct a task-centered walkthrough of major tasks. | 10% | 11/2 |
-| [P3: Hi-Fi Prototypes and Heuristic Evaluation](p3.md) - Implement important features of your interface and system, and conduct a heuristic evaluation on its major features. | 15% | 11/28 (paper); week of 11/28 (demos) |
-| [P4: Final Report and Presentation](p4.md) - Provide a report on your work, and present the work to your classmates. | 7% | 12/7 (paper); week of 12/5 (presentations) |
+| [P3: Hi-Fi Prototypes and Heuristic Evaluation](p3.md) - Implement important features of your interface and system, and conduct a heuristic evaluation on its major features. | 12% | 11/28 (paper); week of 11/28 (demos) |
+| [P4: Final Report and Presentation](p4.md) - Provide a report on your work, and present the work to your classmates. | 5% | 12/7 (paper); week of 12/5 (presentations) |
 
 ## Example Projects from Previous Offerings
