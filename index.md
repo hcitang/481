@@ -19,7 +19,11 @@ This course provides an introduction to the process of designing, creating and e
     - Good Interfaces [slides](http://www.hcitang.org/uploads/Teaching/481-2-good-interfaces.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-2-good-interfaces.mp3) [exercises](http://www.hcitang.org/uploads/Teaching/481-2-exercises.pptx)
     - Designing for People [slides](http://www.hcitang.org/uploads/Teaching/481-3-designing-for-people.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-3-designing-for-people.mp3) [exercises](http://www.hcitang.org/uploads/Teaching/481-3-exercises.pptx)
     - Notes: [A0](assignments.md) released 9/12, due 9/14; [P0](p0.md) released 9/12
-
+* Week of 9/19
+    - Investigation [slides](http://www.hcitang.org/uploads/Teaching/481-4-investigation.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-4-investigation.mp3)
+    - IDEO Methods: Look [slides](http://www.hcitang.org/uploads/Teaching/481-5-ideo-look.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-5-ideo-look.mp3)
+    - IDEO Methods: Ask [slides](http://www.hcitang.org/uploads/Teaching/481-6-ideo-ask.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-6-ideo-ask.mp3)
+    - Notes: [P0](p0.md) individual due 9/19, [P0](p0.md) draft due 9/23; [A1](a1.md) released 9/19 
 
 ## Expected Assignment Dates
 
