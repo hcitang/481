@@ -31,7 +31,7 @@ This course provides an introduction to the process of designing, creating and e
 * A1: 9/19 out; 9/26 due
 * A2: 9/28 out; 10/12 due
 
-* P0: 9/12 indiv out; 9/19 indiv due; 9/23 draft due; 9/26 handed back; 10/13 due in tutorial
+* P0: 9/12 indiv out; 9/19 indiv due; 9/23 draft due; 9/26 handed back; 9/30-revised due 
 * P1: 9/28 out; 10/19 due
 * P2: 10/19 out; 11/2 due
 * P3: 11/2 out; 11/29 due
