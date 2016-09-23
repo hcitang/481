@@ -24,6 +24,13 @@ This course provides an introduction to the process of designing, creating and e
     - IDEO Methods: Look [slides](http://www.hcitang.org/uploads/Teaching/481-5-ideo-look.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-5-ideo-look.mp3)
     - IDEO Methods: Ask [slides](http://www.hcitang.org/uploads/Teaching/481-6-ideo-ask.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-6-ideo-ask.mp3)
     - Notes: [P0](p0.md) individual due 9/19, [P0](p0.md) draft due 9/23; [A1](a1.md) released 9/19 
+* Week of 9/26
+    - IDEO Methods: Learn [slides](http://www.hcitang.org/uploads/Teaching/481-7-ideo-learn.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-7-ideo-learn.mp3)
+    - IDEO Methods: Try [slides](http://www.hcitang.org/uploads/Teaching/481-8-ideo-try.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-8-ideo-try.mp3)
+    - Ideation [slides](http://www.hcitang.org/uploads/Teaching/481-9-ideation.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-9-ideation-fewer-pops.mp3)
+    - Notes: [A1](a1.md) due 9/26; [P0](p0.md) revisions due 9/30; [A2](a2.md) released 9/28; [P1](p1.md) released
+    - You will receive feedback on P0 draft on 9/26
+    - You will receive feedback on A1 by week of 10/3
 
 ## Expected Assignment Dates
 
