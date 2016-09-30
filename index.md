@@ -31,6 +31,12 @@ This course provides an introduction to the process of designing, creating and e
     - Notes: [A1](a1.md) due 9/26; [P0](p0.md) revisions due 9/30; [A2](a2.md) released 9/28; [P1](p1.md) released
     - You will receive feedback on P0 draft on 9/26
     - You will receive feedback on A1 by week of 10/3
+* Week of 10/3
+    - Sketching [slides](http://www.hcitang.org/uploads/Teaching/481-10-sketching.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-10-sketching.mp3)
+    - Task-Centered System Design [slides](http://www.hcitang.org/uploads/Teaching/481-13-task-centered-system-design-1.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-13-task-centered-system-design-1.mp3)
+    - Task Centered System Design: Walkthrough [slides](http://www.hcitang.org/uploads/Teaching/481-14-task-centered-system-design-2.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-14-task-centered-system-design-2.mp3)
+    - You will receive feedback on A1 this week
+    - You will receive feedback on P0 this week
 
 ## Expected Assignment Dates
 
