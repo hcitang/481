@@ -38,6 +38,13 @@ This course provides an introduction to the process of designing, creating and e
     - You will receive feedback on A1 this week
     - You will receive feedback on P0 this week
 
+* Week of 10/17
+    - Prototyping I [slides](http://www.hcitang.org/uploads/Teaching/481-11-prototyping-1.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-11-prototyping-1.mp3)
+    - Prototyping II [slides](http://www.hcitang.org/uploads/Teaching/481-12-prototyping-2.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-12-prototyping-2.mp3)
+    - Design of Everyday Things I [slides](http://www.hcitang.org/uploads/Teaching/481-15-design-of-everyday-things-1.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-15-design-of-everyday-things-1.mp3)
+    - Notes: [P1](p1.md) due 10/19; [P2](p2.md) out 10/19
+    - You should receive feedback on A2 this week
+
 ## Expected Assignment Dates
 
 * ~~A0: 9/12 out; 9/14 due~~
