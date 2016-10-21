@@ -45,6 +45,12 @@ This course provides an introduction to the process of designing, creating and e
     - Notes: [P1](p1.md) due 10/19; [P2](p2.md) out 10/19
     - You should receive feedback on A2 this week
 
+* Week of 10/24
+    - Design of Everyday Things II [slides](http://www.hcitang.org/uploads/Teaching/481-16-exercises.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-16-design-of-everyday-things-2.mp3)
+    - Design of Everyday Things III [slides](http://www.hcitang.org/uploads/Teaching/481-17-exercises.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-17-design-of-everyday-things-3.mp3)
+    - Design of Everyday Things IV [slides](http://www.hcitang.org/uploads/Teaching/481-18-design-of-everyday-things-4.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-18-design-of-everyday-things-4.mp3)
+    - Notes: Tutorial this week is on fundamentals of Android Studio and GitHub. Attendance is optional.
+
 ## Expected Assignment Dates
 
 * ~~A0: 9/12 out; 9/14 due~~
