@@ -60,7 +60,7 @@ This course provides an introduction to the process of designing, creating and e
 * ~~P0: 9/12 indiv out; 9/19 indiv due; 9/23 draft due; 9/26 handed back; 9/30-revised due~~ 
 * ~~P1: 9/28 out; 10/19 due~~
 * P2: 10/19 out; 11/2 due
-* P3: 11/2 out; 11/29 due
+* P3: 11/2 out; 11/28 due
 * P4: 11/25 out; 12/7 due
 
 * Project demos: week of 11/28 in tutorial
