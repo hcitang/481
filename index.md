@@ -51,6 +51,17 @@ This course provides an introduction to the process of designing, creating and e
     - Design of Everyday Things IV [slides](http://www.hcitang.org/uploads/Teaching/481-18-design-of-everyday-things-4.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-18-design-of-everyday-things-4.mp3)
     - Notes: Tutorial this week is on fundamentals of Android Studio and GitHub. Attendance is optional.
 
+* Week of 10/31
+    - Mon: Ubiquitous Collaboration - Research Talk
+    - Wed: Guest speaker: Kathryn Rounding - H&R Block
+    - Fri: Guest speaker: Bonnie Presser - SMART Technologies
+    - Notes: P2 is due on Wednesday at the beginning of class
+
+* Week of 11/7
+    - Mon: Guest speaker: Lora Oehlberg
+    - Wed: Guest speaker: Wesley Willett
+    - Fri: No class
+
 ## Expected Assignment Dates
 
 * ~~A0: 9/12 out; 9/14 due~~
