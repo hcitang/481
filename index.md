@@ -58,8 +58,8 @@ This course provides an introduction to the process of designing, creating and e
     - Notes: P2 is due on Wednesday at the beginning of class
 
 * Week of 11/7
-    - Mon: Guest speaker: Lora Oehlberg
-    - Wed: Guest speaker: Wesley Willett
+    - Mon: Guest speaker: Wesley Willett
+    - Wed: Guest speaker: Lora Oehlberg
     - Fri: No class
 
 ## Expected Assignment Dates
