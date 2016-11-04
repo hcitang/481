@@ -62,6 +62,13 @@ This course provides an introduction to the process of designing, creating and e
     - Wed: Guest speaker: Lora Oehlberg
     - Fri: No class
 
+## Tutorials
+* Week of 11/7: Advanced Android Techniques
+* Week of 11/14: P3 mini-demos
+* Week of 11/21: Heuristic evaluation
+* Week of 11/28: P3 demos
+* Week of 12/5: P4 presentations
+
 ## Expected Assignment Dates
 
 * ~~A0: 9/12 out; 9/14 due~~
@@ -70,7 +77,7 @@ This course provides an introduction to the process of designing, creating and e
 
 * ~~P0: 9/12 indiv out; 9/19 indiv due; 9/23 draft due; 9/26 handed back; 9/30-revised due~~ 
 * ~~P1: 9/28 out; 10/19 due~~
-* P2: 10/19 out; 11/2 due
+* ~~P2: 10/19 out; 11/2 due~~
 * P3: 11/2 out; 11/28 due
 * P4: 11/25 out; 12/7 due
 
