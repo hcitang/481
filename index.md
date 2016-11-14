@@ -63,14 +63,21 @@ This course provides an introduction to the process of designing, creating and e
     - Fri: No class
 
 * Week of 11/14
+    - Tutorial: Mini demos
     - Usability Testing [slides1](http://www.hcitang.org/uploads/Teaching/481-19-usability-testing-1.pptx) [slides2](http://www.hcitang.org/uploads/Teaching/481-20-usability-testing-2.pptx) [mp3 to go with slides2](http://www.hcitang.org/uploads/Teaching/481-20-usability-testing-2.mp3) [slides3](http://www.hcitang.org/uploads/Teaching/481-21-usability-testing-3.pptx) [mp3 to go with slides3](http://www.hcitang.org/uploads/Teaching/481-21-usability-testing-3.mp3)
     - Heuristic Evaluation 1 [slides](http://www.hcitang.org/uploads/Teaching/481-22-heuristic-evaluation-1.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-22-heuristic-evaluation-1.mp3)
 
 * Week of 11/21
+    - Tutorial: Heuristic evaluation
     - Heuristic Evaluation 2 [slides](http://www.hcitang.org/uploads/Teaching/481-23-heuristic-evaluation-2.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-23-heuristic-evaluation-2.mp3) [slides2](http://www.hcitang.org/uploads/Teaching/481-24-heuristic-evaluation-3.pptx)[mp3](http://www.hcitang.org/uploads/Teaching/481-24-heuristic-evaluation-3.mp3)
     - Personas [slides](http://www.hcitang.org/uploads/Teaching/481-25-personas.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-25-personas.mp3)
     - Fitts' Law [slides](http://www.hcitang.org/uploads/Teaching/481-26-fitts-law.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-26-fitts-law.mp3)
 
+* Week of 11/28
+    - Tutorial: P3 demos
+
+* Week of 12/5
+    - Tutorial: P4 presentations
 
 
 ## Tutorials
