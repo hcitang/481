@@ -75,10 +75,17 @@ This course provides an introduction to the process of designing, creating and e
 
 * Week of 11/28
     - Tutorial: P3 demos
+    - Information Representation [slides](http://www.hcitang.org/uploads/Teaching/481-27-information-representation.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-27-information-representation.mp3)
+    - Information Visualization 1 [slides](http://www.hcitang.org/uploads/Teaching/481-28-information-visualization-1.pptx)[mp3](http://www.hcitang.org/uploads/Teaching/481-28-information-visualization-1.mp3)
+    - Information Visualization 2 [slides](http://www.hcitang.org/uploads/Teaching/481-29-information-visualization-2.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-29-information-visualization-2.mp3)
+    - Notes: [P3](p3.md) due on 11/28
 
 * Week of 12/5
     - Tutorial: P4 presentations
-
+    - Direct Manipulation [slides](http://www.hcitang.org/uploads/Teaching/481-30-direct-manipulation.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-30-direct-manipulation.mp3)
+    - Natural User Interfaces [slides](http://www.hcitang.org/uploads/Teaching/481-31-nui.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-31-nui.mp3)
+    - Frontiers of HCI
+    - Notes: [P4](p4.md) due on 12/7
 
 ## Tutorials
 * Week of 11/7: Advanced Android Techniques
