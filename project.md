@@ -54,3 +54,6 @@ This year, we're going to be using Java Android Studio to build Android apps!
 | [P4: Final Report and Presentation](p4.md) - Provide a report on your work, and present the work to your classmates. | 5% | 12/7 (paper); week of 12/5 (presentations) |
 
 ## Example Projects from Previous Offerings
+
+* [P3 presentation - Ski Hill App](http://hcitang.org/uploads/Teaching/481-P3-AlexRichardRiaz.mp4) (by Riaz Ali, Alex Bymoen, Richard Huynh)
+* [P3 presentation - UCalgary Rec Centre App](http://hcitang.org/uploads/Teaching/481-P3-PaulineNicoleSpencer.mp4) (by Nicole Ewart, Spencer Manzon, Pauline Telan)
