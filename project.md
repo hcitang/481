@@ -20,17 +20,23 @@ A template repo will be made available for you to fork.
 
 You may choose from any of the following project ideas. Most will need some narrowing (i.e. focus) to make it tractable. My suggestion: pick a project that speaks to you (i.e. you find/found it an issue).
 
-1. Curated maps and routes (e.g. Spotify for walking or biking)
-2. Garden guide (e.g. planning, managing and tracking a garden)
-3. Back-end system for an animal shelter (for employees to manage animals)
-4. Back-end of restaurant menu ordering system (e.g. employee interface for adding inventory)
-5. Catalog store shopping assistant
-6. Recreation Centre app
-7. Ski hill application
-8. Mobile field guide for a park (e.g. for mushrooms, flowers, etc.)
-9. Driving data app
-10. Period tracking app
-11. Farmer market vendor app
+* Walking tour/route creation app (ex. creating and sharing tours)
+* Garden guide (e.g. planning, managing and tracking a garden)
+* Back-end system for an animal shelter (for employees to manage animals)
+* Back-end of restaurant menu ordering system (e.g. employee interface for * adding inventory)
+* Recreation Centre app
+* Mobile field guide for a park (e.g. for mushrooms, flowers, etc.)
+* Genealogy for Animal Breeders
+* Menstruation tracking app
+* Farmer market vendor app
+* Dating app for a specific group (ex. elderly people, farmers)
+* Web Browser for a specific group (ex. kids, disabilities)
+* Cooking Instructor
+* Family Communication System (for a specific task or activity) 
+* Home Theater PC for a Specific Group (ex. kids, disabilities) 
+* FabLab App (ex. Garage 142)
+* New Mommy app (tracking baby progress, feeding tracker, sleep tracking, …)
+* Theme park app for family + kid (“FastPass”)
 
 This year, we're going to be using [Axure](https://www.axure.com/) to prototype apps!
 
