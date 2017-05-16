@@ -1,4 +1,4 @@
-# CPSC 481 - 2016F
+# CPSC 481 - 2017S
 
 [Home](index.md)
 
@@ -10,7 +10,9 @@
   - - - -
   * [A0](assignments.md)
   * [A1](a1.md)
-  * [A2](a2.md)
+  * [A2](assignments.md)
+  * [A3](assignments.md)
+  * [A4](assignments.md)
 
 [Team Project]()
 
