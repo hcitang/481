@@ -14,7 +14,7 @@ Teams will create and operate under the particulars of their own team contract (
 
 Your team will submit projects via a GitHub Pages portfolio site. The idea is to use this as a portfolio site for your work, allowing you to see the evolution of your work, and for you to showcase your work to potential employers later.
 
-A template repo will be made available for you to fork.
+You can fork this template repo for your projects: https://github.com/hcitang/481-project-template
 
 ## Project Ideas
 
