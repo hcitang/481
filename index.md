@@ -76,7 +76,7 @@ Come to class having listened to all the podcasts for that lecture, and having r
 ## Expected Assignment Dates
 
 * A0: 5/17, noon
-* P0: 5/19, noon
+* P0: 5/19, 3pm
 * A1: 5/22, noon
 * P1: 5/26, noon
 * A2: 5/29, noon
