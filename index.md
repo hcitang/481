@@ -40,9 +40,9 @@ Come to class having listened to all the podcasts for that lecture, and having r
     - Design of Everyday Things II [slides](http://www.hcitang.org/uploads/Teaching/481-16-design-of-everyday-things-2.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-16-design-of-everyday-things-2.mp3)
     - Design of Everyday Things III [slides](http://www.hcitang.org/uploads/Teaching/481-17-design-of-everyday-things-3.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-17-design-of-everyday-things-3.mp3)
     - Design of Everyday Things IV [slides](http://www.hcitang.org/uploads/Teaching/481-18-design-of-everyday-things-4.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-18-design-of-everyday-things-4.mp3)
-* Tue, Jun 5
+* Tue, Jun 6
     - Usability Testing [slides1](http://www.hcitang.org/uploads/Teaching/481-19-usability-testing-1.pptx) [slides2](http://www.hcitang.org/uploads/Teaching/481-20-usability-testing-2.pptx) [mp3 to go with slides2](http://www.hcitang.org/uploads/Teaching/481-20-usability-testing-2.mp3) [slides3](http://www.hcitang.org/uploads/Teaching/481-21-usability-testing-3.pptx) [mp3 to go with slides3](http://www.hcitang.org/uploads/Teaching/481-21-usability-testing-3.mp3)
-* Thu, Jun 7
+* Thu, Jun 8
     - **Midterm** (covers up to Jun 1 lecture)
 * Tue, Jun 13
     - Heuristic Evaluation 1 [slides](http://www.hcitang.org/uploads/Teaching/481-22-heuristic-evaluation-1.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-22-heuristic-evaluation-1.mp3)
