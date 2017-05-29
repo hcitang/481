@@ -1,0 +1,18 @@
+
+# Loading Bitmap data from a file, the `Image` UI element, and Simple Animation
+
+This tutorial shows how to load bitmap data from a file on the filesystem, introduces you to the `Image` UI element, and shows you a simple method to animate a dependency property. What you will get at the end of this tutorial is a program where, when you click on the canvas, will render an image loaded from a file. The opacity (transparency) of each of these images will go up and down in an animated way.
+
+**Bitmaps vs Images.** Pictures on computers have some overlapping terminology, and so let's get some of that out of the way, at least in terms of WPF. A bitmap is the data that corresponds to the image (i.e. the 1s and 0s that represent the image). An `Image` is an actual UI element (i.e. has a visual embodiment) that provides the usual UI events (e.g. `MouseDown`, `MouseUp`, etc.). You can assign a bitmap to an `Image` component as the thing that the `Image` will display. Finally, a bitmap can have several different formats: jpeg, gif, and png are the most popular web-based formats; however, there are a lot more (e.g. emf, tiff, bmp, xmp, and so on). Each image format specifies how size and colour information are encoded.
+
+**URI**. The first part of the tutorial shows how to load bitmap data by using a `URI`. `URI` is short for Uniform Resource Identifier: a way of actually identifying information in a uniform way. URIs can refer to elements that you find on the internet (e.g. prefaced using `http:` -- these are known as URLs, or uniform resource locators), items on your computer (often prefaced with `file:`), and so on. In this tutorial, you will load a bitmap data from a file from your computer using a URI.
+
+**DependencyProperties**. The last part of the video deals illustrates how to do a simple animation using the `DoubleAnimation` object. In WPF, UIElements all inherit from `DependencyObject`, which allows them have `DependencyProperties` stored in a dictionary. These are the equivalent to having fields in an object, except that it gives us a lot more flexibility and saves on storage space. (The details of this are not important here, but you can [read more](https://wpftutorial.net/DependencyProperties.html) on the topic.)For our purposes, it is important to know that we access the values of these `DependencyProperties` via `GetValue` and `SetValue`. For instance, `button.GetValue(Canvas.Top)` retrieves the button's `Canvas.Top` value (e.g. 0.0). Similarly, we can set the same value: `button.SetValue(Canvas.Top, 100.0)`. Other objects can respond to this dependency value via event handling. For instance, if the button was contained within a `Canvas`, we'd be moving the button down in the screen by 100 pixels.
+
+**DoubleAnimation**. As you have seen, some of these `DependencyProperties` are doubles. We can use the `DoubleAnimation` object to change the value of these doubles over time. In the tutorial, you will see the `UIElement.OpacityProperty` from 0 to 1 and back again. Note what's clever about this: we can set up the animation (via the `DoubleAnimation` object), and then assign this to whatever object and whatever property we want to. For instance, we could set it to the `Canvas.Left` property of a button instead!
+
+[](https://www.youtube.com/watch?v=TxX6II6eWKI)
+
+[source video](https://www.youtube.com/watch?v=TxX6II6eWKI)
+
+**Knowledge.** Image elements can be used to display bitmap data loaded from URIs -- regardless of whether the URI points to a file on disk, or an online resource. DoubleAnimation can be used to change a dependency property -- even the location of a UI element (e.g. via `Canvas.Left` and `Canvas.Top` properties).
