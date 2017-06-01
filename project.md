@@ -45,9 +45,9 @@ This year, we're going to be using [Axure](https://www.axure.com/) to prototype 
 | --------- | ----- | --- |
 | [P0: Team Contracts](p0.md) - Establishing a set of rules that outline how the team will work, expectations, and consequences for poor performance | 1% | 5/19 noon |
 | [P1: User Research](p1.md) - Conduct three different IDEO methods to learn about your users in their environment. | 7% | 5/26 noon |
-| [P2: Ideation and Lo-Fi Prototypes](p2.md) - Brainstorm and sketch a variety of possible interfaces for your system, identifying important aspects of a user's flow. Create a video prototype of your system, and conduct a task-centered walkthrough of major tasks. | 10% | 6/9 noon |
-| [P3: Hi-Fi Prototypes and Heuristic Evaluation](p3.md) - Implement important features of your interface and system, and conduct a heuristic evaluation on its major features. | 12% | 6/23 noon (website); week of 6/19 (demos) |
-| [P4: Final Report and Presentation](p4.md) - Provide a report on your work, and present the work to your classmates. | 5% | 6/28 noon (website); week of 6/26 (presentations) |
+| [P2: Ideation and Lo-Fi Prototypes](p2.md) - Brainstorm and sketch a variety of possible interfaces for your system, identifying important aspects of a user's flow. Create a video prototype of your system, and conduct a task-centered walkthrough of major tasks. | 10% | 6/5 5pm |
+| [P3: Hi-Fi Prototypes and Heuristic Evaluation](p3.md) - Implement important features of your interface and system, and conduct a heuristic evaluation on its major features. | 12% | 6/23 5pm (website); week of 6/19 (demos) |
+| [P4: Final Report and Presentation](p4.md) - Provide a report on your work, and present the work to your classmates. | 5% | 6/28 5pm (website); week of 6/26 (presentations) |
 
 ## Example Projects from Previous Offerings
 
