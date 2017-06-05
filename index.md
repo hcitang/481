@@ -12,6 +12,8 @@ This course provides an introduction to the process of designing, creating and e
 
 [Course description, learning objectives, and evaluation criteria](about.md)
 
+Note: The final exam is on Wed, Jun 28 at 8am in ST 143
+
 ## Tentative Calendar
 
 Come to class having listened to all the podcasts for that lecture, and having reviewed each of the slide decks.
@@ -49,19 +51,22 @@ Come to class having listened to all the podcasts for that lecture, and having r
     - Heuristic Evaluation 2 [slides](http://www.hcitang.org/uploads/Teaching/481-23-heuristic-evaluation-2.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-23-heuristic-evaluation-2.mp3) [slides2](http://www.hcitang.org/uploads/Teaching/481-24-heuristic-evaluation-3.pptx)[mp3](http://www.hcitang.org/uploads/Teaching/481-24-heuristic-evaluation-3.mp3)
 * Thu, Jun 15
     - Float
-* Tue, Jun 19
+* Tue, Jun 20
     - Personas [slides](http://www.hcitang.org/uploads/Teaching/481-25-personas.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-25-personas.mp3)
     - Fitts' Law [slides](http://www.hcitang.org/uploads/Teaching/481-26-fitts-law.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-26-fitts-law.mp3)
-* Thu, Jun 21
+* Thu, Jun 22
     - Tutorial: P3 demos
     - Information Representation [slides](http://www.hcitang.org/uploads/Teaching/481-27-information-representation.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-27-information-representation.mp3)
     - Information Visualization 1 [slides](http://www.hcitang.org/uploads/Teaching/481-28-information-visualization-1.pptx)[mp3](http://www.hcitang.org/uploads/Teaching/481-28-information-visualization-1.mp3)
     - Information Visualization 2 [slides](http://www.hcitang.org/uploads/Teaching/481-29-information-visualization-2.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-29-information-visualization-2.mp3)
-* Tue, Jun 26
+* Tue, Jun 27
     - Tutorial: P4 presentations
     - Direct Manipulation [slides](http://www.hcitang.org/uploads/Teaching/481-30-direct-manipulation.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-30-direct-manipulation.mp3)
     - Natural User Interfaces [slides](http://www.hcitang.org/uploads/Teaching/481-31-nui.pptx) [mp3](http://www.hcitang.org/uploads/Teaching/481-31-nui.mp3)
     - Frontiers of HCI
+
+* Wed, Jun 28
+    - **FINAL EXAM** 8am, ST 143
 
 ## Tutorials
 
