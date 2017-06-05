@@ -31,7 +31,7 @@ Note: This is tentative, and superceded by the course syllabus.
 | [Assignments](assignments.md) | 12% |
 | Participation | 8% |
 | [Team Project](project.md) | 35% |
-| Midterm (Jun 7) | 15% |
+| Midterm (Jun 8) | 15% |
 | Final (TBD) | 30% |
 
 Participation is assessed via two sub-components: (1) tutorial participation, and (2) online participation in surveys.
