@@ -86,8 +86,8 @@ Come to class having listened to all the podcasts for that lecture, and having r
 * P1: 5/26, 5pm
 * A2: 5/29, 5pm
 * P2: 6/5, 5pm
-* A3: 6/9, 5pm
-* A4: 6/16, 5pm
+* A3: 6/12, 5pm
+* A4: 6/19, 5pm
 * P3 (presentations): week of 6/19
 * P3 (written): 6/23, 5pm
 * P4 (presentations): week of 6/26
