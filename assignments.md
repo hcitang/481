@@ -10,9 +10,9 @@ Note: if you talk with a classmate about the assignments, you should list them i
 | ---------- | ----- | -------- |
 | A0 - Slack Introduction | | 5/17, before class |
 | A1 - Hello World WPF | 3% | Mon 5/22, noon |
-| A2 - Stopwatch and Timer | 3% | Mon 5/29, noon |
-| A3 - Image Viewer | 3% | Fri 6/9, noon |
-| A4 - User-Centered Research | 3% | Fri 6/16, noon |
+| A2 - Stopwatch and Timer | 3% | Mon 5/29, 5pm |
+| A3 - Image Viewer | 3% | Mon 6/13, 5pm |
+| A4 - User-Centered Research | 3% | Mon 6/19, 5pm |
 
 ## A0: Slack Introduction
 
